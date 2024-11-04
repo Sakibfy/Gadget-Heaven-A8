@@ -1,0 +1,183 @@
+[
+  {
+    "product_id": "P001",
+    "product_title": "iPhone 14 Pro",
+    "product_image": "https://example.com/images/iphone14pro.jpg",
+    "category": "iPhone",
+    "price": 999.99,
+    "description": "Latest iPhone with advanced camera system and A16 Bionic chip.",
+    "specification": [
+      "6.1-inch OLED display",
+      "A16 Bionic chip",
+      "Triple-lens camera",
+      "5G support"
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "color_options": ["Space Black", "Silver", "Gold"],
+    "warranty": "1 year"
+  },
+  {
+    "product_id": "P002",
+    "product_title": "MacBook Air M2",
+    "product_image": "https://example.com/images/macbookairm2.jpg",
+    "category": "MacBook",
+    "price": 1199.99,
+    "description": "Thin and light MacBook Air with M2 chip for powerful performance.",
+    "specification": [
+      "13.6-inch Retina display",
+      "M2 chip",
+      "8GB RAM, 256GB SSD",
+      "18-hour battery life"
+    ],
+    "availability": true,
+    "rating": 4.7,
+    "color_options": ["Silver", "Space Gray"],
+    "warranty": "1 year"
+  },
+  {
+    "product_id": "P003",
+    "product_title": "Samsung Galaxy S22",
+    "product_image": "https://example.com/images/galaxys22.jpg",
+    "category": "Phones",
+    "price": 799.99,
+    "description": "Samsung's latest smartphone with a stunning AMOLED display and powerful performance.",
+    "specification": [
+      "6.1-inch AMOLED display",
+      "Snapdragon 8 Gen 1",
+      "Triple rear camera",
+      "5G support"
+    ],
+    "availability": true,
+    "rating": 4.6,
+    "color_options": ["Phantom Black", "White"],
+    "warranty": "1 year"
+  },
+  {
+    "product_id": "P004",
+    "product_title": "Dell XPS 13",
+    "product_image": "https://example.com/images/xps13.jpg",
+    "category": "Laptops",
+    "price": 999.99,
+    "description": "Compact and powerful laptop with InfinityEdge display.",
+    "specification": [
+      "13.4-inch FHD+ display",
+      "Intel i7 Processor",
+      "16GB RAM, 512GB SSD",
+      "10-hour battery life"
+    ],
+    "availability": true,
+    "rating": 4.5,
+    "brand": "Dell",
+    "warranty": "1 year"
+  },
+  {
+    "product_id": "P005",
+    "product_title": "Apple Watch Series 8",
+    "product_image": "https://example.com/images/applewatch8.jpg",
+    "category": "Smart Watches",
+    "price": 399.99,
+    "description": "Advanced Apple Watch with health monitoring and fitness tracking.",
+    "specification": [
+      "Always-on Retina display",
+      "Blood oxygen sensor",
+      "ECG app",
+      "Water-resistant"
+    ],
+    "availability": true,
+    "rating": 4.7,
+    "color_options": ["Midnight", "Starlight"],
+    "warranty": "1 year"
+  },
+  {
+    "product_id": "P006",
+    "product_title": "Sony WH-1000XM4 Headphones",
+    "product_image": "https://example.com/images/sonywh1000xm4.jpg",
+    "category": "Accessories",
+    "price": 299.99,
+    "description": "Noise-canceling wireless headphones with superior sound quality.",
+    "specification": [
+      "30-hour battery life",
+      "Quick charge feature",
+      "Bluetooth 5.0",
+      "Noise cancellation"
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "brand": "Sony",
+    "color_options": ["Black", "Silver"],
+    "warranty": "1 year"
+  },
+  {
+    "product_id": "P007",
+    "product_title": "HP Spectre x360",
+    "product_image": "https://example.com/images/hpspectrex360.jpg",
+    "category": "Laptops",
+    "price": 1399.99,
+    "description": "Convertible laptop with touch screen and flexible design.",
+    "specification": [
+      "13.5-inch OLED display",
+      "Intel i7 Processor",
+      "16GB RAM, 512GB SSD",
+      "360-degree hinge"
+    ],
+    "availability": true,
+    "rating": 4.6,
+    "brand": "HP",
+    "warranty": "1 year"
+  },
+  {
+    "product_id": "P008",
+    "product_title": "iPhone 13 Mini",
+    "product_image": "https://example.com/images/iphone13mini.jpg",
+    "category": "iPhone",
+    "price": 699.99,
+    "description": "Compact iPhone with powerful performance and dual-camera system.",
+    "specification": [
+      "5.4-inch Super Retina XDR display",
+      "A15 Bionic chip",
+      "Dual-camera system",
+      "5G support"
+    ],
+    "availability": true,
+    "rating": 4.6,
+    "color_options": ["Blue", "Pink", "Midnight"],
+    "warranty": "1 year"
+  },
+  {
+    "product_id": "P009",
+    "product_title": "Apple AirPods Pro",
+    "product_image": "https://example.com/images/airpodspro.jpg",
+    "category": "Accessories",
+    "price": 249.99,
+    "description": "Wireless earbuds with active noise cancellation and transparency mode.",
+    "specification": [
+      "Active noise cancellation",
+      "Transparency mode",
+      "Spatial audio",
+      "Sweat and water-resistant"
+    ],
+    "availability": true,
+    "rating": 4.5,
+    "brand": "Apple",
+    "warranty": "1 year"
+  },
+  {
+    "product_id": "P010",
+    "product_title": "Samsung Galaxy Watch 4",
+    "product_image": "https://example.com/images/galaxywatch4.jpg",
+    "category": "Smart Watches",
+    "price": 279.99,
+    "description": "Advanced smartwatch with health tracking and customizable watch faces.",
+    "specification": [
+      "1.4-inch AMOLED display",
+      "Body composition analysis",
+      "Sleep tracking",
+      "GPS and LTE options"
+    ],
+    "availability": true,
+    "rating": 4.5,
+    "brand": "Samsung",
+    "warranty": "1 year"
+  }
+]

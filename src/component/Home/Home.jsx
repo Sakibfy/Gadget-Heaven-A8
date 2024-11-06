@@ -4,7 +4,7 @@ const Home = () => {
   return (
     <div>
       <Banner></Banner>
-      <div className='pt-28 w-10/12 mx-auto'>
+      <div className='pt-28 w-11/12 mx-auto '>
       <AllCard></AllCard>
       </div>
     </div>

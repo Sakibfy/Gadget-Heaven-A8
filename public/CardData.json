@@ -1,8 +1,8 @@
 [
   {
-    "product_id": "P001",
+    "product_id": 1,
     "product_title": "iPhone 14 Pro",
-    "product_image": "https://example.com/images/iphone14pro.jpg",
+    "product_image": "https://i.postimg.cc/GtkTP4zG/apple-iphone-14-pro.jpg",
     "category": "iPhone",
     "price": 999.99,
     "description": "Latest iPhone with advanced camera system and A16 Bionic chip.",
@@ -18,9 +18,9 @@
     "warranty": "1 year"
   },
   {
-    "product_id": "P002",
+    "product_id": 2,
     "product_title": "MacBook Air M2",
-    "product_image": "https://example.com/images/macbookairm2.jpg",
+    "product_image": "https://i.postimg.cc/zvWKdtDL/mba13-midnight-select-202402.jpg",
     "category": "MacBook",
     "price": 1199.99,
     "description": "Thin and light MacBook Air with M2 chip for powerful performance.",
@@ -36,9 +36,9 @@
     "warranty": "1 year"
   },
   {
-    "product_id": "P003",
+    "product_id": 3,
     "product_title": "Samsung Galaxy S22",
-    "product_image": "https://example.com/images/galaxys22.jpg",
+    "product_image": "https://i.postimg.cc/zG3X8LW7/samsung-galaxy-s22-5g.jpg",
     "category": "Phones",
     "price": 799.99,
     "description": "Samsung's latest smartphone with a stunning AMOLED display and powerful performance.",
@@ -54,9 +54,9 @@
     "warranty": "1 year"
   },
   {
-    "product_id": "P004",
+    "product_id": 4,
     "product_title": "Dell XPS 13",
-    "product_image": "https://example.com/images/xps13.jpg",
+    "product_image": "https://i.postimg.cc/Dw5kN2Lt/notebook-xps-13-9350-t-oled-sl-gallery-1.avif",
     "category": "Laptops",
     "price": 999.99,
     "description": "Compact and powerful laptop with InfinityEdge display.",
@@ -72,9 +72,9 @@
     "warranty": "1 year"
   },
   {
-    "product_id": "P005",
+    "product_id": 5,
     "product_title": "Apple Watch Series 8",
-    "product_image": "https://example.com/images/applewatch8.jpg",
+    "product_image": "https://i.postimg.cc/3RNkqL18/apple-watch-8.jpg",
     "category": "Smart Watches",
     "price": 399.99,
     "description": "Advanced Apple Watch with health monitoring and fitness tracking.",
@@ -90,9 +90,9 @@
     "warranty": "1 year"
   },
   {
-    "product_id": "P006",
+    "product_id": 6,
     "product_title": "Sony WH-1000XM4 Headphones",
-    "product_image": "https://example.com/images/sonywh1000xm4.jpg",
+    "product_image": "https://i.postimg.cc/XYKBBBXb/bh1-1-jpg.webp",
     "category": "Accessories",
     "price": 299.99,
     "description": "Noise-canceling wireless headphones with superior sound quality.",
@@ -109,9 +109,9 @@
     "warranty": "1 year"
   },
   {
-    "product_id": "P007",
+    "product_id": 7,
     "product_title": "HP Spectre x360",
-    "product_image": "https://example.com/images/hpspectrex360.jpg",
+    "product_image": "https://i.postimg.cc/QxTTsy3V/c08873687.webp",
     "category": "Laptops",
     "price": 1399.99,
     "description": "Convertible laptop with touch screen and flexible design.",
@@ -127,9 +127,9 @@
     "warranty": "1 year"
   },
   {
-    "product_id": "P008",
+    "product_id": 8,
     "product_title": "iPhone 13 Mini",
-    "product_image": "https://example.com/images/iphone13mini.jpg",
+    "product_image": "https://i.postimg.cc/rsvRxSS8/apple-iphone-13-mini.jpg",
     "category": "iPhone",
     "price": 699.99,
     "description": "Compact iPhone with powerful performance and dual-camera system.",
@@ -145,9 +145,9 @@
     "warranty": "1 year"
   },
   {
-    "product_id": "P009",
+    "product_id": 9,
     "product_title": "Apple AirPods Pro",
-    "product_image": "https://example.com/images/airpodspro.jpg",
+    "product_image": "https://i.postimg.cc/63bv5sq4/20221006-1665048788-161772.jpg",
     "category": "Accessories",
     "price": 249.99,
     "description": "Wireless earbuds with active noise cancellation and transparency mode.",
@@ -163,9 +163,9 @@
     "warranty": "1 year"
   },
   {
-    "product_id": "P010",
+    "product_id": 10,
     "product_title": "Samsung Galaxy Watch 4",
-    "product_image": "https://example.com/images/galaxywatch4.jpg",
+    "product_image": "https://i.postimg.cc/RZwK1bs2/samsung-galaxy-watch4.jpg",
     "category": "Smart Watches",
     "price": 279.99,
     "description": "Advanced smartwatch with health tracking and customizable watch faces.",

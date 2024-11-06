@@ -7,7 +7,8 @@ import Home from './component/Home/Home'
 import Dashboard from './component/dashboard/Dashboard'
 import Statistics from './component/Statistics/Statistics'
 import ProductDetails from './component/productDetails/ProductDetails'
-
+import { ToastContainer } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 
 
 
@@ -51,7 +52,8 @@ const router = createBrowserRouter([
       },
       {
         path: "/Dashboard",
-        element: <Dashboard></Dashboard>
+        element: <Dashboard></Dashboard>,
+        loader: () => fetch('../CardData.json'),
       },
     ]
   },
@@ -63,5 +65,6 @@ const router = createBrowserRouter([
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <RouterProvider router={router} />
+    <ToastContainer />
   </StrictMode>,
 )

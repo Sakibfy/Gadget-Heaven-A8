@@ -7,7 +7,7 @@ const ItemCard = ({ item }) => {
 
 
   return (
-    <div className="card card-compact   m-5 border-2  border-gray-600 shadow-xl pt-4 items-center ">
+    <div className="card card-compact   m-5 shadow-xl pt-4 items-center ">
   <figure>
     <img
       className="h-[180px] " src={product_image} />

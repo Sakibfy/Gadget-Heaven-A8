@@ -19,8 +19,9 @@ const allProductData = useLoaderData()
 
     
     setProductList(productitemFilt);
+    
+    console.log(productitemFilt);
   }, [])
-  
   
   
   
@@ -36,7 +37,9 @@ const allProductData = useLoaderData()
       <Tab>Card</Tab>
       <Tab>Wishlish</Tab>
     </TabList>
-<div className="flex justify-between mt-20">
+
+        <TabPanel>
+          <div className="flex justify-between mt-20">
         <div> <h2 className='font-bold text-[30px] text-black'>Card</h2></div>
         <div className='flex justify-between gap-10'>
           <div><h2 className='font-bold text-[25px]'>Totalcost: 999$</h2></div>
@@ -44,7 +47,6 @@ const allProductData = useLoaderData()
           <button className='bg-[#db63e6] py-2 px-3 rounded-xl'>Purchase</button></div>
         </div>
       </div>
-    <TabPanel>
             {
               productList.map( product => <DashboardProduct product={product} key={product.product_id}></DashboardProduct> )
             }

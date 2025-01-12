@@ -3,7 +3,7 @@
 A React-based gadget store where users can browse, view details, and add items to their cart and wishlist.
 
 ## Live Website
-[Live Link Here](https://rococo-ganache-675e6c.netlify.app/)
+[Live Link Here](https://assigment-8-fy.netlify.app/)
 
 ## Requirement Document
 [Project Requirements](file:///C:/Users/ACER/B10-A8-gadget-heaven/Batch-10_Assignment-08.pdf)
